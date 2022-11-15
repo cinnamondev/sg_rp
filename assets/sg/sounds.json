@@ -1,0 +1,13 @@
+{
+    
+	"game.music.countdown": {
+		"sounds": [
+			"sg:music/spetsnaz"
+		]
+	},
+	"games.begin": {
+		"sounds": [
+			"sg:effects/nefarious_games"
+		]
+	}
+}
