@@ -9,5 +9,10 @@
 		"sounds": [
 			"sg:effects/nefarious_games"
 		]
+	},
+	"game.drum": {
+		"sounds": [
+			"sg:effects/drum"
+		]
 	}
 }
