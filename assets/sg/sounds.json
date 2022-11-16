@@ -14,5 +14,10 @@
 		"sounds": [
 			"sg:effects/drum"
 		]
+	},
+	"game.platform.rise": {
+		"sounds": [
+			"sg:effects/platform"
+		]
 	}
 }
