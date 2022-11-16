@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "sg:font/dark.png",
+            "ascent": 256,
+            "height": 512,
+            "chars": ["\uE001"]
+        }
+    ]
+}
