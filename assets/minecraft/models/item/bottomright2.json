@@ -1,0 +1,28 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"textures": {
+		"0": "minecraft:item/quartzblock"
+	},
+	"elements": [
+		{
+			"faces": {
+				"north": {"uv": [0, 0, 3.82997, 5.09813], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [3.69319, 3.95105, 14.49918, 13.76496], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 0.97852, 1.26221], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [0, 0, 0.55915, 1.26221], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 0, 3.82997, 2.03925], "texture": "#0"},
+				"down": {"uv": [0, 0, 3.82997, 2.03925], "texture": "#0"}
+			},
+			"to": [18, 12.6, 4],
+			"from": [15.6, 7.4, 2.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.6, 0],
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 0]
+		}
+	}
+}
