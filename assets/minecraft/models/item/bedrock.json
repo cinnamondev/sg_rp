@@ -1,0 +1,70 @@
+{
+  "parent": "minecraft:block/bedrock"
+  ,
+  "overrides": [
+    {
+      "predicate": {"custom_model_data": 1},
+      "model": "sg:teams/aqua"
+    },
+    {
+      "predicate": {"custom_model_data": 2},
+      "model": "sg:teams/black"
+    },
+    {
+      "predicate": {"custom_model_data": 3},
+      "model": "sg:teams/blue"
+    },
+    {
+      "predicate": {"custom_model_data": 4},
+      "model": "sg:teams/cyan"
+    },
+    {
+      "predicate": {"custom_model_data": 5},
+      "model": "sg:teams/dark_blue"
+    },
+    {
+      "predicate": {"custom_model_data": 6},
+      "model": "sg:teams/dark_gray"
+    },
+    {
+      "predicate": {"custom_model_data": 7},
+      "model": "sg:teams/dark_green"
+    },
+	{
+      "predicate": {"custom_model_data": 8},
+      "model": "sg:teams/purple"
+    },
+    {
+      "predicate": {"custom_model_data": 9},
+      "model": "sg:teams/dark_red"
+    },
+    {
+      "predicate": {"custom_model_data": 10},
+      "model": "sg:teams/gold"
+    },
+    {
+      "predicate": {"custom_model_data": 11},
+      "model": "sg:teams/gray"
+    },
+    {
+      "predicate": {"custom_model_data": 12},
+      "model": "sg:teams/green"
+    },
+    {
+      "predicate": {"custom_model_data": 13},
+      "model": "sg:teams/magenta"
+    },
+    {
+      "predicate": {"custom_model_data": 14},
+      "model": "sg:teams/red"
+    },
+    {
+      "predicate": {"custom_model_data": 15},
+      "model": "sg:teams/white"
+    },
+    {
+      "predicate": {"custom_model_data": 16},
+      "model": "sg:teams/yellow"
+    }
+  ]
+}
