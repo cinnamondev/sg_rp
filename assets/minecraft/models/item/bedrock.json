@@ -65,6 +65,14 @@
     {
       "predicate": {"custom_model_data": 16},
       "model": "sg:teams/yellow"
+    },
+    {
+      "predicate": {"custom_model_data": 17},
+      "model": "minecraft:item/barrier"
+    },
+    {
+      "predicate": {"custom_model_data": 18},
+      "model": "sg:teams/random"
     }
   ]
 }
