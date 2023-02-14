@@ -19,5 +19,10 @@
 		"sounds": [
 			"sg:effects/platform"
 		]
+	},
+	"game.door.move": {
+		"sounds": [
+			"sg:doors/doormove3"
+		]
 	}
 }
