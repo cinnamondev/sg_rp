@@ -1,4 +1,8 @@
 {
   "soundCategory.music": "§cVanilla Music (§4disable§c)§r",
-  "soundCategory.record": "§aCustom Music/Effects§r"
+  "soundCategory.record": "§aCustom Music/Effects§r",
+  "key.mouse.left": "Left Click",
+  "key.mouse.right": "Right Click",
+  "key.mouse.middle": "Middle Click",
+  "container.enderchest": "§3§LTeam Selection§r"
 }

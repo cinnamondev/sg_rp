@@ -4,6 +4,11 @@
             "type": "directory",
             "source": "teams",
             "prefix": "teams/"
+        },
+		{
+            "type": "directory",
+            "source": "doors",
+            "prefix": "doors/"
         }
     ]
 }
