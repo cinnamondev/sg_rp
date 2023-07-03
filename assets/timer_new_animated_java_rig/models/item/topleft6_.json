@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "minecraft:item/quartzblock"
+		"3": "timer_new_animated_java_rig:item/texture"
 	},
 	"elements": [
 		{
@@ -26,61 +26,57 @@
 			"faces": {
 				"north": {
 					"uv": [
-						0,
-						0,
-						0.75,
-						1.5
+						6.75,
+						1.5,
+						7.5,
+						3
 					],
-					"rotation": 180,
-					"texture": "#0"
+					"texture": "#3"
 				},
 				"east": {
 					"uv": [
-						0,
-						0,
-						0.5,
-						1.5
+						12,
+						12,
+						12.5,
+						13.5
 					],
-					"rotation": 180,
-					"texture": "#0"
+					"texture": "#3"
 				},
 				"south": {
 					"uv": [
-						0,
-						0,
-						0.75,
-						1.5
+						6.75,
+						3,
+						7.5,
+						4.5
 					],
-					"rotation": 180,
-					"texture": "#0"
+					"texture": "#3"
 				},
 				"west": {
 					"uv": [
-						0,
-						0,
-						0.5,
-						1.5
+						5,
+						12.125,
+						5.5,
+						13.625
 					],
-					"rotation": 180,
-					"texture": "#0"
+					"texture": "#3"
 				},
 				"up": {
 					"uv": [
-						0,
-						0,
-						0.75,
-						0.5
+						14.25,
+						14.75,
+						13.5,
+						14.25
 					],
-					"texture": "#0"
+					"texture": "#3"
 				},
 				"down": {
 					"uv": [
-						0,
-						0,
-						0.75,
-						0.5
+						15,
+						14.25,
+						14.25,
+						14.75
 					],
-					"texture": "#0"
+					"texture": "#3"
 				}
 			}
 		}
@@ -89,7 +85,7 @@
 		"head": {
 			"rotation": [
 				0,
-				0,
+				180,
 				0
 			]
 		}

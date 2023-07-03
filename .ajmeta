@@ -59,7 +59,9 @@
                 "assets\\timer_new_animated_java_rig\\models\\item\\topleft2_.json",
                 "assets\\timer_new_animated_java_rig\\models\\item\\bottomleft2_.json",
                 "assets\\timer_new_animated_java_rig\\models\\item\\bottom2_.json",
-                "assets\\timer_new_animated_java_rig\\models\\item\\bone3.json"
+                "assets\\timer_new_animated_java_rig\\models\\item\\bone3_.json",
+                "assets\\timer_new_animated_java_rig\\textures\\item\\pasted.png",
+                "assets\\timer_new_animated_java_rig\\textures\\item\\texture.png"
             ]
         }
     }
