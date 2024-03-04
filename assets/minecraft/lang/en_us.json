@@ -331,5 +331,9 @@
   "text.safety.bypass.warning2":"Click here",
   "text.safety.bypass.warning3":" to re-enable these safety features.",
   "text.safety.bypass.allow":"You have been given a safety exemption.",
-  "text.safety.bypass.revoke":"You have had your safety exemption revoked."
+  "text.safety.bypass.revoke":"You have had your safety exemption revoked.",
+  "text.safety.playercap.on":"The 32 player limit has been re-enabled.",
+  "text.safety.playercap.off":"The 32 player limit has been disabled for solos.",
+  "text.safety.playercap.warning1":"WARNING! This game is not balanced around having more than 32 players. Large lobbies are not recommended. ",
+  "text.safety.playercap.warning2":" to re-enable the default limit."
 }
